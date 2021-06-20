@@ -1,6 +1,6 @@
 # Inventory Management
 
-## Operation can be performed in Inventory Management
+## Operation performed by Inventory Management
 
 1) Add Product into Inventory
 2) Edit properties of existing Product
